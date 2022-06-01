@@ -1,6 +1,6 @@
 # 점프 투 플라스크
 
-django나 flask를 이용한 웹개발에 대해서 알기 위해, 휴일을 맞아 책 한 권을 따라가봤다.
+django나 flask를 이용한 웹개발에 대해서 알기 위해, 6/1 지방선거로 인한 휴일에 책 한 권을 따라가봤다.
 
 https://wikidocs.net/book/4542
 
@@ -18,3 +18,9 @@ set FLASK_APP=pybo
 ## powershell
 $env:FLASK_APP = "pybo"
 ```
+
+그 외에 생긴 문제는 전부 Ctrl-c, v를 하면 될 걸 직접 쳐보다가 생긴 오타 문제였다.
+
+## Concerns
+
+역시 누군가에게 보여줄 웹 앱을 만들려면 html/css/javascript는 필수인거 같다.
