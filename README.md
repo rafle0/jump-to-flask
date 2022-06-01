@@ -24,4 +24,5 @@ $env:FLASK_APP = "pybo"
 ## Concerns
 
 역시 누군가에게 보여줄 웹 앱을 만들려면 html/css/javascript는 필수인거 같다.
+
 여기서도 화면 이쁘게 해보겠다고 부트스트랩(https://getbootstrap.com/docs/5.1/getting-started/download/)을 썼다.
